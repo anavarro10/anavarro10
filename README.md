@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anavarro10
+- 👀 I’m interested in Linux
+- 🌱 I’m currently learning Ansible and Python
+- 💞️ I’m looking to collaborate on Kubernetes and Containerization projects
+- 📫 How to reach me anavarro@manitoulingroup.com
