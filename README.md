@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anavarro10
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Ansible and Python
-- 💞️ I’m looking to collaborate on Kubernetes and Automation projects
-- 📫 How to reach me anavarro@manitoulingroup.com
+- 🌱 I’m currently learning Kubernetes Security
+- 💞️ I am collaborating to the Rocky Linux Project
+- 📫 How to reach me anavarro@linux.com
